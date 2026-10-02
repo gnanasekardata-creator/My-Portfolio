@@ -7,7 +7,7 @@ Professional portfolio website showcasing my Data Analytics, Power BI, SQL, Exce
 ## Live Portfolio
 
 🔗 Portfolio Website  
-https://gnanasekar-portfolio.netlify.app/
+https://gnanasekardataportfilio.netlify.app
 
 ---
 
